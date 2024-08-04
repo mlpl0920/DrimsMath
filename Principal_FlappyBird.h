@@ -17,8 +17,8 @@
 using namespace std;
 using namespace System;
 
-const int anchoPantalla = 95;
-const int altoPantalla = 44;
+const int anchoPantalla = 100;
+const int altoPantalla = 400;
 const int espacioEntreTubos = 50;
 const int alturaMaxTubo = 10;
 const int alturaMinTubo = 5;
@@ -42,7 +42,7 @@ struct Pajaro {
     float velocidad;
 };
 
-void definirTamañoConsola(int ancho, int alto) {
+void definirTamaï¿½oConsola(int ancho, int alto) {
     COORD bufferSize;
     bufferSize.X = ancho;
     bufferSize.Y = alto;
@@ -184,7 +184,7 @@ void mostrarPantallaDeBienvenida() {
 
 
 void PrincipalFlappyBird() {
-    definirTamañoConsola(anchoPantalla, altoPantalla);
+    definirTamaï¿½oConsola(anchoPantalla, altoPantalla);
     int opcionActualFlappyBird = 0;
     bool juegoActivo = true;
     bool hasWon = false;
