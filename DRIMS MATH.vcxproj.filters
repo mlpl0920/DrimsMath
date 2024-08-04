@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Archivos de origen">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Archivos de encabezado">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Archivos de recursos">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Archivos de encabezado\Numeros Primos">
+      <UniqueIdentifier>{e9a8fa6e-7dd0-40b9-9684-c8ccba440c60}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\Numeros Primos\Flappy bird">
+      <UniqueIdentifier>{5d40fb4f-ffd1-485b-8927-588ad79a0770}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\Menú">
+      <UniqueIdentifier>{753236d3-5634-4af8-af47-59b5c74600f1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\MCD Y MCM">
+      <UniqueIdentifier>{d1da2c09-ffbf-49d5-92f7-65606fd5ba38}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\MCD Y MCM\CARRERAS">
+      <UniqueIdentifier>{307d5b9a-3cfb-465a-9d2a-e650912dc65f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\Angulos, Areas y perimetros">
+      <UniqueIdentifier>{9264358c-1ab7-4838-9403-db83509859f7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\Angulos, Areas y perimetros\Gusanito">
+      <UniqueIdentifier>{71b673d2-b17a-40b3-b80a-9c6eb6e7dd51}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\General">
+      <UniqueIdentifier>{2966a45f-c4ae-47f1-b1e8-efac8842e14c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\Factorizacion">
+      <UniqueIdentifier>{2058153a-c0d4-4201-aa6f-72bf2c691520}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\Factorizacion\Laberinto">
+      <UniqueIdentifier>{4daac2e9-1b92-47c0-ab80-e44b025f20a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\Historia Juego">
+      <UniqueIdentifier>{d8e37c0b-6b62-451d-982a-b950e5b64b78}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\FinalJuegoEnfrentamiento">
+      <UniqueIdentifier>{244ad45e-154f-42e1-8e6f-bf09ac9caa81}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\FinalJuegoEnfrentamiento\Dragon">
+      <UniqueIdentifier>{521a669c-8288-41ae-9fd0-aada4b3a2393}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="app.rc">
+      <Filter>Archivos de recursos</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Principal_FlappyBird.h">
+      <Filter>Archivos de encabezado\Numeros Primos\Flappy bird</Filter>
+    </ClInclude>
+    <ClInclude Include="EscenariosFlappyBird.h">
+      <Filter>Archivos de encabezado\Numeros Primos\Flappy bird</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuPrincipal.h">
+      <Filter>Archivos de encabezado\Menú</Filter>
+    </ClInclude>
+    <ClInclude Include="FuncionesMenu.h">
+      <Filter>Archivos de encabezado\Menú</Filter>
+    </ClInclude>
+    <ClInclude Include="ActualizarMenup.h">
+      <Filter>Archivos de encabezado\Menú</Filter>
+    </ClInclude>
+    <ClInclude Include="ParaHito2.h">
+      <Filter>Archivos de encabezado\Menú</Filter>
+    </ClInclude>
+    <ClInclude Include="TestFlappyBird.h">
+      <Filter>Archivos de encabezado\Numeros Primos\Flappy bird</Filter>
+    </ClInclude>
+    <ClInclude Include="StatsFlappyBird.h">
+      <Filter>Archivos de encabezado\Numeros Primos\Flappy bird</Filter>
+    </ClInclude>
+    <ClInclude Include="NumerosPuntuacionFlappyBird.h">
+      <Filter>Archivos de encabezado\Numeros Primos\Flappy bird</Filter>
+    </ClInclude>
+    <ClInclude Include="PrincipalCarreras.h">
+      <Filter>Archivos de encabezado\MCD Y MCM\CARRERAS</Filter>
+    </ClInclude>
+    <ClInclude Include="EscenarioCarreras.h">
+      <Filter>Archivos de encabezado\MCD Y MCM\CARRERAS</Filter>
+    </ClInclude>
+    <ClInclude Include="FuncionesCarreras.h">
+      <Filter>Archivos de encabezado\MCD Y MCM\CARRERAS</Filter>
+    </ClInclude>
+    <ClInclude Include="NumerosCarreras.h">
+      <Filter>Archivos de encabezado\MCD Y MCM\CARRERAS</Filter>
+    </ClInclude>
+    <ClInclude Include="PrincipalGusanito.h">
+      <Filter>Archivos de encabezado\Angulos, Areas y perimetros\Gusanito</Filter>
+    </ClInclude>
+    <ClInclude Include="EscenariosGusanito.h">
+      <Filter>Archivos de encabezado\Angulos, Areas y perimetros\Gusanito</Filter>
+    </ClInclude>
+    <ClInclude Include="COLORES.h">
+      <Filter>Archivos de encabezado\General</Filter>
+    </ClInclude>
+    <ClInclude Include="cursor.h">
+      <Filter>Archivos de encabezado\General</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>Archivos de encabezado\General</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Archivos de encabezado\General</Filter>
+    </ClInclude>
+    <ClInclude Include="PrincipalLaberinto.h">
+      <Filter>Archivos de encabezado\Factorizacion\Laberinto</Filter>
+    </ClInclude>
+    <ClInclude Include="funcionesLaberinto.h">
+      <Filter>Archivos de encabezado\Factorizacion\Laberinto</Filter>
+    </ClInclude>
+    <ClInclude Include="EscenariosLaberinto.h">
+      <Filter>Archivos de encabezado\Factorizacion\Laberinto</Filter>
+    </ClInclude>
+    <ClInclude Include="Escenarios_Historia.h">
+      <Filter>Archivos de encabezado\Historia Juego</Filter>
+    </ClInclude>
+    <ClInclude Include="FuncionesHistoria.h">
+      <Filter>Archivos de encabezado\Historia Juego</Filter>
+    </ClInclude>
+    <ClInclude Include="Flechas.h">
+      <Filter>Archivos de encabezado\Menú</Filter>
+    </ClInclude>
+    <ClInclude Include="PrincipalFinal.h">
+      <Filter>Archivos de encabezado\FinalJuegoEnfrentamiento\Dragon</Filter>
+    </ClInclude>
+    <ClInclude Include="EscenariosDragon.h">
+      <Filter>Archivos de encabezado\FinalJuegoEnfrentamiento\Dragon</Filter>
+    </ClInclude>
+    <ClInclude Include="PasillosCastillo.h">
+      <Filter>Archivos de encabezado\Historia Juego</Filter>
+    </ClInclude>
+    <ClInclude Include="PasilloCastillo_Escenarios.h">
+      <Filter>Archivos de encabezado\Historia Juego</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="DRIMS MATH.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="AssemblyInfo.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="app.ico">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

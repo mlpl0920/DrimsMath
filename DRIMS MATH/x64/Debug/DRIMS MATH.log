@@ -1,0 +1,63 @@
+﻿  DRIMS MATH.cpp
+D:\Nueva carpeta\DRIMS MATH\Principal_FlappyBird.h(26,24): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "/DRIMS%20MATH.cpp")
+  
+D:\Nueva carpeta\DRIMS MATH\Principal_FlappyBird.h(82,14): warning C4309: 'inicializando': truncamiento de valor constante
+  (compilando archivo de origen "/DRIMS%20MATH.cpp")
+  
+D:\Nueva carpeta\DRIMS MATH\Principal_FlappyBird.h(151,31): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "/DRIMS%20MATH.cpp")
+  
+D:\Nueva carpeta\DRIMS MATH\Principal_FlappyBird.h(151,18): warning C4244: 'argumento': conversión de 'const float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "/DRIMS%20MATH.cpp")
+  
+D:\Nueva carpeta\DRIMS MATH\Principal_FlappyBird.h(154,35): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "/DRIMS%20MATH.cpp")
+  
+D:\Nueva carpeta\DRIMS MATH\Principal_FlappyBird.h(154,21): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "/DRIMS%20MATH.cpp")
+  
+D:\Nueva carpeta\DRIMS MATH\Principal_FlappyBird.h(159,31): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "/DRIMS%20MATH.cpp")
+  
+D:\Nueva carpeta\DRIMS MATH\Principal_FlappyBird.h(159,18): warning C4244: 'argumento': conversión de 'const float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "/DRIMS%20MATH.cpp")
+  
+D:\Nueva carpeta\DRIMS MATH\Principal_FlappyBird.h(161,35): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "/DRIMS%20MATH.cpp")
+  
+D:\Nueva carpeta\DRIMS MATH\Principal_FlappyBird.h(161,21): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "/DRIMS%20MATH.cpp")
+  
+D:\Nueva carpeta\DRIMS MATH\Principal_FlappyBird.h(196,19): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  (compilando archivo de origen "/DRIMS%20MATH.cpp")
+  
+D:\Nueva carpeta\DRIMS MATH\FuncionesCarreras.h(211,29): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "/DRIMS%20MATH.cpp")
+  
+D:\Nueva carpeta\DRIMS MATH\FuncionesCarreras.h(215,25): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "/DRIMS%20MATH.cpp")
+  
+D:\Nueva carpeta\DRIMS MATH\FuncionesCarreras.h(221,29): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "/DRIMS%20MATH.cpp")
+  
+D:\Nueva carpeta\DRIMS MATH\FuncionesCarreras.h(222,29): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "/DRIMS%20MATH.cpp")
+  
+D:\Nueva carpeta\DRIMS MATH\FuncionesCarreras.h(229,25): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "/DRIMS%20MATH.cpp")
+  
+D:\Nueva carpeta\DRIMS MATH\FuncionesCarreras.h(230,25): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "/DRIMS%20MATH.cpp")
+  
+D:\Nueva carpeta\DRIMS MATH\FuncionesCarreras.h(312,29): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "/DRIMS%20MATH.cpp")
+  
+D:\Nueva carpeta\DRIMS MATH\PrincipalGusanito.h(346,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  (compilando archivo de origen "/DRIMS%20MATH.cpp")
+  
+D:\Nueva carpeta\DRIMS MATH\DRIMS MATH.cpp(21,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  (compilando archivo de origen "/DRIMS%20MATH.cpp")
+  
+  AssemblyInfo.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  DRIMS MATH.vcxproj -> D:\Nueva carpeta\DRIMS MATH\x64\Debug\DRIMS MATH.exe
